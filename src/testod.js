@@ -6,5 +6,6 @@ function(t){
 }
 let mengci = 'sjdklfjsf'
 
-
-let wakwaw = 'lllooooooooolll'
+function cidugmaster(ab){
+  return 'ucing'
+}
