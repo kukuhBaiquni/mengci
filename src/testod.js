@@ -5,3 +5,7 @@ function(t){
   return t
 }
 let mengci = 'sjdklfjsf'
+
+let cucurut = 'lol master gabon'
+let odf = 'jdskfhsj'
+let malduque;
