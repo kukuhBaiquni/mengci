@@ -9,3 +9,8 @@ let mengci = 'sjdklfjsf'
 function cidugmaster(ab){
   return 'ucing'
 }
+let cucurut = 'lol master gabon'
+let odf = 'jdskfhsj'
+let malduque;
+
+let wakwaw = 'lllooooooooolll'
